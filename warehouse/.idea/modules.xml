@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wh/wh.iml" filepath="$PROJECT_DIR$/wh/wh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wh-mybatis-generator/wh-mybatis-generator.iml" filepath="$PROJECT_DIR$/wh-mybatis-generator/wh-mybatis-generator.iml" />
+    </modules>
+  </component>
+</project>
